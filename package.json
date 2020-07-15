@@ -1,0 +1,24 @@
+{
+  "name": "@sqrtthree/vue-global-registration",
+  "version": "1.0.0",
+  "description": "Register global Vue components with require.context.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sqrthree/vue-global-registration.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-component",
+    "vue-components"
+  ],
+  "author": "sqrtthree <imsqrtthree@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sqrthree/vue-global-registration/issues"
+  },
+  "homepage": "https://github.com/sqrthree/vue-global-registration#readme",
+  "dependencies": {
+    "lodash": "^4.17.19"
+  }
+}
